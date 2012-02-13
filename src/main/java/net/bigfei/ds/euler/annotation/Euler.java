@@ -1,4 +1,4 @@
-package net.bigfei.ds.euler.base;
+package net.bigfei.ds.euler.annotation;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;

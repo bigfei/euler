@@ -2,7 +2,7 @@ package net.bigfei.ds.euler.problems.s323;
 
 import java.util.Arrays;
 
-import net.bigfei.ds.euler.base.Euler;
+import net.bigfei.ds.euler.annotation.Euler;
 
 import org.apache.commons.lang.ArrayUtils;
 import org.apache.commons.lang.math.RandomUtils;
