@@ -21,7 +21,6 @@ public class Solution {
 	public static void main(String[] args) {
 		long t1 = System.currentTimeMillis();
 		Solution l = new Solution();
-		int c = 0, d = 0;
 		for (int m = 2; m <= 1000; m++) {
 			for (int n = 1; n < m; n++) {
 				if (gcd(m, n) == 1 && (((m & 1) != 1) || ((n & 1) != 1))) {
