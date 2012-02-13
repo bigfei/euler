@@ -1,4 +1,4 @@
-package net.bigfei.ds.euler.s323;
+package net.bigfei.ds.euler.problems.s323;
 
 import java.util.Arrays;
 

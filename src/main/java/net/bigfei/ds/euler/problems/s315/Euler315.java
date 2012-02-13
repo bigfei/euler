@@ -1,4 +1,4 @@
-package net.bigfei.ds.euler.s315;
+package net.bigfei.ds.euler.problems.s315;
 
 public class Euler315 {
 	static long[] hexDigit = { 0x7E, 0x30, 0x6D, 0x79, 0x33, 0x5B, 0x5F, 0x72, 0x7F, 0x7B };

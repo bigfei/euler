@@ -1,4 +1,4 @@
-package net.bigfei.ds.euler.s309;
+package net.bigfei.ds.euler.problems.s309;
 
 public class Triangle {
 	private int s1, s2, s3;

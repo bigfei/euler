@@ -1,4 +1,4 @@
-package net.bigfei.ds.euler.s309;
+package net.bigfei.ds.euler.problems.s309;
 
 public class FourPair {
 	private long x, y, w, h;

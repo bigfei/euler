@@ -1,4 +1,4 @@
-package net.bigfei.ds.euler.s001;
+package net.bigfei.ds.euler.problems.s001;
 
 public class Euler001 {
 

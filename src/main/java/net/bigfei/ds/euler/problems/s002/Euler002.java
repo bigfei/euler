@@ -1,4 +1,4 @@
-package net.bigfei.ds.euler.s002;
+package net.bigfei.ds.euler.problems.s002;
 
 import org.apache.commons.lang.ArrayUtils;
 
